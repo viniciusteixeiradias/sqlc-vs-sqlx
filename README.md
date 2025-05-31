@@ -1,8 +1,9 @@
 # Task Manager Project
 
+## 📂 Project
 This project demonstrates two approaches to using Go with PostgreSQL:
-- Using [`sqlc`](./sqlc/README.md)
-- Using [`sqlx`](./sqlx/README.md)
+* [SQLC Version](./sqlc/README.md) — Type-safe, code-generated queries
+* [SQLX Version](./sqlx/README.md) — Flexible, raw SQL with minimal setup
 
 ---
 
